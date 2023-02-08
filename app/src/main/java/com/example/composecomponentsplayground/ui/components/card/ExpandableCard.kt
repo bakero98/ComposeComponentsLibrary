@@ -1,4 +1,4 @@
-package com.example.composecomponentsplayground.ui.components
+package com.example.composecomponentsplayground.ui.components.card
 
 import androidx.compose.animation.animateContentSize
 import androidx.compose.animation.core.LinearOutSlowInEasing
