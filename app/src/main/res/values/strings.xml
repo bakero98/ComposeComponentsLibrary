@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">ComposeComponentsPLayground</string>
+    <string name="logging_in">Logging with Android</string>
+    <string name="sign_up_with_android">Sign Up with Android</string>
 </resources>
